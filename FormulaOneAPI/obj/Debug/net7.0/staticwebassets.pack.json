@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/css/docs.css",
+      "PackagePath": "staticwebassets/css/docs.css"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/.DS_Store",
+      "PackagePath": "staticwebassets/images/.DS_Store"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/carloSainz.jpeg",
+      "PackagePath": "staticwebassets/images/carloSainz.jpeg"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/f1icon.png",
+      "PackagePath": "staticwebassets/images/f1icon.png"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/fernandoalonso.jpeg",
+      "PackagePath": "staticwebassets/images/fernandoalonso.jpeg"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/landoNorris.jpeg",
+      "PackagePath": "staticwebassets/images/landoNorris.jpeg"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/lewishamilton.jpeg",
+      "PackagePath": "staticwebassets/images/lewishamilton.jpeg"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/maxverstappen.jpeg",
+      "PackagePath": "staticwebassets/images/maxverstappen.jpeg"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/images/sergioperez.jpeg",
+      "PackagePath": "staticwebassets/images/sergioperez.jpeg"
+    },
+    {
+      "Id": "/Users/andersbellsundbeil/Library/CloudStorage/OneDrive-Kristiania/HK/Webutvikling/EksamenWeb2023/FormulaOneAPI/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.FormulaOneAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.FormulaOneAPI.props",
+      "PackagePath": "build\\FormulaOneAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.FormulaOneAPI.props",
+      "PackagePath": "buildMultiTargeting\\FormulaOneAPI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.FormulaOneAPI.props",
+      "PackagePath": "buildTransitive\\FormulaOneAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

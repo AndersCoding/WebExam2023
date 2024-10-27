@@ -1,0 +1,40 @@
+/* Back for the different pages of the website*/
+body {
+  background-color: black;
+}
+
+/* All text is white */
+h1,
+h2,
+h3,
+p,
+label,
+input {
+  color: white;
+}
+
+/* Background size of backgroundimage on homepage */
+.background-image {
+  height: 26vh;
+}
+
+/* Styling for the racegame */
+.raceSection {
+  position: relative;
+}
+.redbullCar {
+  width: 200px;
+  position: absolute;
+  transition: 0.5 ease-in-out;
+}
+
+.mercedCar {
+  width: 200px;
+  position: absolute;
+  transition: 0.5 ease-in-out;
+}
+
+.raceFrame {
+  border: 5px solid wheat;
+  top: 200px;
+}
